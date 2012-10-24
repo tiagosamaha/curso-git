@@ -1,9 +1,6 @@
 curso-git
 =========
 
-Breno Silva
------------
-
 Repositorio para o curso de git
 
 Testando o git =)
